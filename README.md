@@ -7,10 +7,10 @@
 
 ## Instalación
 
-1. Instalar Apache y MySql en su servidor.
-2. Ejecutar el archivo .SQL ubicado en la carpeta db para clonar la base de datos
-3. Clonar repositorio de github: https://github.com/manueld1az/PruebaPHP.git
-4. Mover el repositorio a la carpeta htdocs de Apache
+1. Instalar un servidor local como XAMPP o si prefiere instalar Apache y MySql en su servidor.
+3. Ejecutar el archivo .SQL ubicado en la carpeta db para clonar la base de datos
+4. Clonar repositorio de github: https://github.com/manueld1az/PruebaPHP.git
+5. Mover el repositorio a la carpeta htdocs de Apache
 
 ## Uso
 
